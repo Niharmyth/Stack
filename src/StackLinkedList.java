@@ -1,3 +1,5 @@
+import Stack.Node;
+
 public class StackLinkedList {
 
     private int data;

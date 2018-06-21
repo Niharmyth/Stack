@@ -1,4 +1,4 @@
-import java.util.Arrays;
+package Stack;
 
 public class StackArray {
 
